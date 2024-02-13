@@ -1,0 +1,15 @@
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\bin\Debug\net6.0\Polymorphism_osio7.exe
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\bin\Debug\net6.0\Polymorphism_osio7.deps.json
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\bin\Debug\net6.0\Polymorphism_osio7.runtimeconfig.json
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\bin\Debug\net6.0\Polymorphism_osio7.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\bin\Debug\net6.0\Polymorphism_osio7.pdb
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.csproj.AssemblyReference.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.AssemblyInfoInputs.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.AssemblyInfo.cs
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.csproj.CoreCompileInputs.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\refint\Polymorphism_osio7.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.pdb
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\Polymorphism_osio7.genruntimeconfig.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Polymorphism_osio7\obj\Debug\net6.0\ref\Polymorphism_osio7.dll

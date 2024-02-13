@@ -1,0 +1,3 @@
+﻿  TENTTI_Janne_Sillanpää.cpp
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\TENTTI_Janne_Sillanpää\TENTTI_Janne_Sillanpää.cpp(55): warning C4715: 'InventoryItem::GetEnumString': not all control paths return a value
+  TENTTI_Janne_Sillanpää.vcxproj -> C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\TENTTI_Janne_Sillanpää\x64\Debug\TENTTI_Janne_Sillanpää.exe

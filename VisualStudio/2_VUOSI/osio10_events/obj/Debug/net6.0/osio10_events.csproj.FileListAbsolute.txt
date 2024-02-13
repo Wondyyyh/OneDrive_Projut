@@ -1,0 +1,15 @@
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\bin\Debug\net6.0\osio10_events.exe
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\bin\Debug\net6.0\osio10_events.deps.json
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\bin\Debug\net6.0\osio10_events.runtimeconfig.json
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\bin\Debug\net6.0\osio10_events.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\bin\Debug\net6.0\osio10_events.pdb
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.csproj.AssemblyReference.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.AssemblyInfoInputs.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.AssemblyInfo.cs
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.csproj.CoreCompileInputs.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\refint\osio10_events.dll
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.pdb
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\osio10_events.genruntimeconfig.cache
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\osio10_events\obj\Debug\net6.0\ref\osio10_events.dll

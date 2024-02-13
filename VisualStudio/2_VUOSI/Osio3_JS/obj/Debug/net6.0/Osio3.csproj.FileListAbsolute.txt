@@ -1,0 +1,15 @@
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\bin\Debug\net6.0\Osio3.exe
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\bin\Debug\net6.0\Osio3.deps.json
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\bin\Debug\net6.0\Osio3.runtimeconfig.json
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\bin\Debug\net6.0\Osio3.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\bin\Debug\net6.0\Osio3.pdb
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.csproj.AssemblyReference.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.AssemblyInfoInputs.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.AssemblyInfo.cs
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.csproj.CoreCompileInputs.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\refint\Osio3.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.pdb
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\Osio3.genruntimeconfig.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\Osio3_JS\obj\Debug\net6.0\ref\Osio3.dll

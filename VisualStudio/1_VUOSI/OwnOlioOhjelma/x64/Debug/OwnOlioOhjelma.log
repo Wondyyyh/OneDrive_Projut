@@ -1,0 +1,13 @@
+﻿  Inventory.cpp
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(28,17): error C2027: use of undefined type 'Inventory'
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(6): message : see declaration of 'Inventory'
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(31,2): error C2065: 'Name': undeclared identifier
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(32,2): error C2065: 'Count': undeclared identifier
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(33,2): error C2065: 'Weight': undeclared identifier
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.cpp(34,2): error C2065: 'Price': undeclared identifier
+  main.cpp
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.h(11,9): error C3646: 'Name': unknown override specifier
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.h(11,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\Inventory.h(18,12): error C2061: syntax error: identifier 'string'
+C:\Users\janne.sillanpaa.ICTLAB\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOlioOhjelma\main.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...

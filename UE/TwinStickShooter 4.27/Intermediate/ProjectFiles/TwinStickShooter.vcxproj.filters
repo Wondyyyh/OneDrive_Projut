@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TwinStickShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{40D2EEFE-6CA4-48CF-AC14-B6B3AF2C5BB7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TwinStickShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TwinStickShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B92F169C-BE89-496A-8F91-F589821312E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TwinStickShooter">
+      <UniqueIdentifier>{25611AE6-4268-4414-91D7-1DADB2674C58}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TwinStickShooter\BaseCharacter.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\BaseCharacter.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TwinStickShooter\TwinStickShooter.Build.cs">
+      <Filter>Source\TwinStickShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TwinStickShooter\TwinStickShooter.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\TwinStickShooter.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TwinStickShooter\TwinStickShooterGameModeBase.cpp">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickShooter\TwinStickShooterGameModeBase.h">
+      <Filter>Source\TwinStickShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

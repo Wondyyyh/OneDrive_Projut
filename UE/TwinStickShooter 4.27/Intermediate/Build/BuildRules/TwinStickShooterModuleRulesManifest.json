@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\silla\\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\\Projut\\UE\\TwinStickShooter 4.27\\Source\\TwinStickShooter\\TwinStickShooter.Build.cs",
+		"C:\\Users\\silla\\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\\Projut\\UE\\TwinStickShooter 4.27\\Source\\TwinStickShooter.Target.cs",
+		"C:\\Users\\silla\\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\\Projut\\UE\\TwinStickShooter 4.27\\Source\\TwinStickShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

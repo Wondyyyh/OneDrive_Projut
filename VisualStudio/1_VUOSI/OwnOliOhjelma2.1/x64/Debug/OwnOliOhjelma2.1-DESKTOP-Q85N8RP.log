@@ -1,0 +1,4 @@
+﻿  OwnOliOhjelma2.1.cpp
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOliOhjelma2.1\OwnOliOhjelma2.1.cpp(175,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOliOhjelma2.1\OwnOliOhjelma2.1.cpp(177,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OwnOliOhjelma2.1.vcxproj -> C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\OwnOliOhjelma2.1\x64\Debug\OwnOliOhjelma2.1.exe

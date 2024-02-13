@@ -1,0 +1,195 @@
+body
+{
+    margin: 0;
+    overflow-x: clip;
+    background-color: rgb(63, 61, 61);
+}
+#pageWrapper
+{
+    width: 100vw;
+    height: 100vh;
+}
+
+#sideBar
+{
+    align-content: center;
+    float: left;
+    width: 50px;
+    height: 100%;
+    font-size: x-large;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    overflow-x: hidden;
+    z-index: 1;
+    position: fixed;
+}
+
+
+#middleButtons
+{
+    top: 40%;
+    position: relative;
+    line-height: 2;
+    text-align: center;
+    width: 100%;
+    height: 20%;
+}
+
+
+
+/* Profilepage main with image */
+#Image
+{
+
+    position: fixed;
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-image: url(../IMG/kuva1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.6;
+
+
+
+}
+#Socials
+{
+
+    position: absolute;
+    bottom: 100px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    left: 40px;
+
+}
+#sosa
+{
+    background-color: none;
+    font-size: 30px;
+    margin: 5px;
+}
+
+/* Content / rightside */
+#rightWrapper
+{
+    font-size:large;
+    float: right;
+    width: 45%;
+    height: 100%;
+}
+#aboutMe
+{
+    padding-top: 10%;
+    width: 70%;
+    padding-bottom: 5%;
+}
+
+
+#Content3{
+    padding-top: 5%;
+
+}
+
+
+.row{
+    padding-right: 10%;
+    height: max-content;
+    padding-bottom: 5%;
+}
+  .column {
+
+    width: 50%;
+    margin: auto;
+    float: left;
+
+  }
+
+
+/* Text fonts */
+h1,h2
+{
+    color: white;
+}
+h3
+{
+    color: rgb(77, 233, 168);
+}
+p
+{
+    color: #A8A8A8;
+}
+i
+{
+    color: white;
+}
+
+@media only screen and (max-width: 750px)
+{
+    #Image
+    {
+
+        position: relative;
+        float: left;
+        width: 100%;
+        height: 100%;
+        background-image: url(../IMG/kuva1.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+
+
+    }
+    #rightWrapper
+    {
+        float: right;
+        width: 85%;
+        height: 100%;
+    }
+
+    #LeftOfRight{
+        width: 100%;
+    }
+    #RightOfRight{
+        width: 100%;
+        padding-left: 0;
+
+    }
+  }
+
+  @media only screen and (min-width: 751px) and (max-width: 950px)
+  {
+
+    #Image{
+
+        position: fixed;
+        float: left;
+        width: 50%;
+        height: 100%;
+        background-image: url(../IMG/kuva1.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+
+
+    }
+    #rightWrapper
+    {
+        float: right;
+        width: 45%;
+        height: 100%;
+    }
+
+    #LeftOfRight{
+        width: 100%;
+    }
+    #RightOfRight{
+        width: 100%;
+        padding-left: 0;
+
+    }
+
+  }
+@media only screen and (min-width: 951px)
+{
+
+}

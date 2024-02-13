@@ -1,0 +1,5 @@
+﻿  MoreTrash.cpp
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\MoreTrash\MoreTrash.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\MoreTrash\MoreTrash.cpp(45,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\MoreTrash\MoreTrash.cpp(48,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MoreTrash.vcxproj -> C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\MoreTrash\Debug\MoreTrash.exe

@@ -1,0 +1,9 @@
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\UE\TwinStickShooter 4.27\Intermediate\Build\Win64\UE4\Development\TwinStickShooter\Definitions.TwinStickShooter.h
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\UE\TwinStickShooter 4.27\Source\TwinStickShooter\BaseCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\UE\TwinStickShooter 4.27\Intermediate\Build\Win64\UE4\Inc\TwinStickShooter\BaseCharacter.generated.h

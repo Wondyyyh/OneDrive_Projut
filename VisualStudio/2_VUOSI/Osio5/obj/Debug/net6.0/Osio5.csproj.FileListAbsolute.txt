@@ -1,0 +1,15 @@
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\bin\Debug\net6.0\Osio5.exe
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\bin\Debug\net6.0\Osio5.deps.json
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\bin\Debug\net6.0\Osio5.runtimeconfig.json
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\bin\Debug\net6.0\Osio5.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\bin\Debug\net6.0\Osio5.pdb
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.csproj.AssemblyReference.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.AssemblyInfoInputs.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.AssemblyInfo.cs
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.csproj.CoreCompileInputs.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\refint\Osio5.dll
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.pdb
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\Osio5.genruntimeconfig.cache
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\VisualStudio\2_VUOSI\Osio5\obj\Debug\net6.0\ref\Osio5.dll

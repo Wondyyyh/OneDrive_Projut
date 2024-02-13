@@ -1,0 +1,8 @@
+﻿  DesicionMaking.cpp
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(45,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(46,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(47,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(61,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(62,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\DesicionMaking.cpp(63,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  DesicionMaking.vcxproj -> C:\Users\janne.sillanpaa\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\DesicionMaking\Debug\DesicionMaking.exe

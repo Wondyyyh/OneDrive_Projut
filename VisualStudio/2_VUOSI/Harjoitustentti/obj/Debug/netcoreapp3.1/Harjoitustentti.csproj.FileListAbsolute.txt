@@ -1,0 +1,14 @@
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.exe
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.deps.json
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.runtimeconfig.json
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.runtimeconfig.dev.json
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.dll
+C:\Users\jasu1\source\repos\Harjoitustentti\bin\Debug\netcoreapp3.1\Harjoitustentti.pdb
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.csproj.AssemblyReference.cache
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.AssemblyInfoInputs.cache
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.AssemblyInfo.cs
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.csproj.CoreCompileInputs.cache
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.dll
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.pdb
+C:\Users\jasu1\source\repos\Harjoitustentti\obj\Debug\netcoreapp3.1\Harjoitustentti.genruntimeconfig.cache

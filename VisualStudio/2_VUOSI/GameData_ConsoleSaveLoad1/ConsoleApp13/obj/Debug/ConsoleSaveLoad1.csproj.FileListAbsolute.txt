@@ -1,0 +1,21 @@
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\Newtonsoft.Json.dll
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\Newtonsoft.Json.xml
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csprojAssemblyReference.cache
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.CopyComplete
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.exe.config
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.exe
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.pdb
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.exe
+G:\Visual Studio Projects\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.pdb
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.exe
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.pdb
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.exe.config
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.exe
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\ConsoleSaveLoad1.pdb
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.AssemblyReference.cache
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.CoreCompileInputs.cache
+C:\Users\janne.sillanpaa\Desktop\GameData_ConsoleSaveLoad1\ConsoleApp13\obj\Debug\ConsoleSaveLoad1.csproj.CopyComplete

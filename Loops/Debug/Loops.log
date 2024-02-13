@@ -1,0 +1,4 @@
+﻿  Loops.cpp
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\Loops\Loops.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\Loops\Loops.cpp(449,26): warning C4018: '<': signed/unsigned mismatch
+  Loops.vcxproj -> C:\Users\silla\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Projut\Loops\Debug\Loops.exe

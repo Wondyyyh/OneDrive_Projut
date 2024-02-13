@@ -1,0 +1,192 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    overflow-x: clip;
+    background-color: rgb(63, 61, 61);
+}
+#pageWrapper
+{
+    width: 100vw;
+    height: 100vh;
+}
+
+#PortfolioSection{
+
+  float: right;
+  width: 95%;
+    
+}
+#Portfolio1, #Portfolio2{
+    padding-top: 5%;
+    text-align: center;
+    width: 90%;
+    color: #A8A8A8;
+    background-color: rgb(49, 49, 49);
+    border: 3px solid rgb(77, 233, 168);
+    border-radius: 25px;
+    box-shadow: 3px 3px 10px rgb(102, 101, 101);
+    height: max-content;
+    float: left;
+    
+    
+}
+#Header{
+
+    margin-top: 5%;
+    text-align: center;
+    width: 90%;
+    color: #A8A8A8;
+    background-color: rgb(49, 49, 49);
+    border: 3px solid rgb(77, 233, 168);
+    border-radius: 25px;
+    box-shadow: 3px 3px 10px rgb(102, 101, 101);
+    float: left;
+    
+    
+}
+
+#sideBar
+{
+    align-content: center;
+    float: left;
+    width: 50px;
+    height: 100%;
+    font-size: x-large;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    overflow-x: hidden;
+    z-index: 1;
+    position: fixed;
+}
+
+#middleButtons
+{
+    top: 40%;
+    position: relative;
+    line-height: 2;
+    text-align: center;
+    width: 100%;
+    height: 20%;    
+}
+
+#subject{
+
+    height:200px;
+}
+
+.row {
+
+    align-content: center;
+   
+  }
+  
+  /* Add padding BETWEEN each column */
+  .row,
+  .row > .column {
+    padding: 5px;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+  .column {
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    
+  }
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  input[type=text], select, textarea {
+    width: 60%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    resize: vertical;
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    float: left;
+    margin-left: 40%;
+    margin-bottom: 5%;
+
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .col-25 {
+    float: left;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 7.5%;
+  }
+  
+  .col-75 {
+    float: left;
+    width: 60%;
+    margin-top: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
+  @media only screen and (max-width: 750px)
+  {
+
+    input[type=submit]
+    {
+      float: left;
+      margin-left: 5%;
+    }
+
+    input[type=text], select, textarea 
+    {
+       width: 100%;
+    }
+    
+    .col-25
+    {
+     margin-left: 0;
+     width: 100%;
+    
+    }
+    .col-75
+    {
+     width: 80%;
+     margin: 0;
+     margin-left: 10%;
+    
+    }
+
+
+  }

@@ -1,0 +1,15 @@
+C:\Users\silla\source\repos\Osio4\bin\Debug\net6.0\Osio4.exe
+C:\Users\silla\source\repos\Osio4\bin\Debug\net6.0\Osio4.deps.json
+C:\Users\silla\source\repos\Osio4\bin\Debug\net6.0\Osio4.runtimeconfig.json
+C:\Users\silla\source\repos\Osio4\bin\Debug\net6.0\Osio4.dll
+C:\Users\silla\source\repos\Osio4\bin\Debug\net6.0\Osio4.pdb
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.csproj.AssemblyReference.cache
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.AssemblyInfoInputs.cache
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.AssemblyInfo.cs
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.csproj.CoreCompileInputs.cache
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.dll
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\refint\Osio4.dll
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.pdb
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\Osio4.genruntimeconfig.cache
+C:\Users\silla\source\repos\Osio4\obj\Debug\net6.0\ref\Osio4.dll
